@@ -6,6 +6,8 @@ This repository is based on the medium article series of Naina Chaturvedi. Being
 ## Notebooks
 
 - [Day 1 - Python Basics Part1](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_01_Python_Basics_Part1.ipynb)
+    Topic : Data Types, Strings, Operators, Chaining Comparison Operators with Logical Operators
+
 - [Day 2 - Python Basics Part2](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_02_Python_Basics_Part2.ipynb)
 - [Day 3 - Python Basics Part3](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_03_Python_Basics_Part3.ipynb)
 - [Day 4 - Intermediate Python Part1](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_04_Intermediate_Python_Part1.ipynb)
