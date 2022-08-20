@@ -68,3 +68,7 @@ This repository is based on the medium article series of Naina Chaturvedi. Being
 - [Day 17 - Kaggle's Annual Machine Learning and Data Science Survey](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_17_Kaggle%E2%80%99s_Annual_Machine_Learning_and_Data_Science_Survey_.ipynb)
 
     Topic : Data Cleaning, Preprocessing, EDA and etc
+
+- [Day 18 - DecisionTreeRegressor and RandomForestRegressor](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_18_DecisionTreeRegressor_and_RandomForestRegressor.ipynb)
+
+    Topic : Implement Regressor with Decision Tree and Random Forest
