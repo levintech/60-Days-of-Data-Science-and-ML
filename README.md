@@ -76,3 +76,12 @@ This repository is based on the medium article series of Naina Chaturvedi. Being
 - [Day 19 - Kaggle's Annual Machine Learning and Data Science Survey Part2](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Kaggle%27s_Annual_Machine_Learning_and_Data_Science_Survery_Part2.ipynb)
 
     Topic : Data Cleaning, Preprocessing, EDA and etc
+
+- [Day 20 - Detailed Crypto Analysis](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_20_Detailed_Crypto_Analysis.ipynb)
+
+    Topic : Basic intuition to buid model to predict
+
+- [Day 21 - Detailed Analysis of the Netflix Content](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_21_Detailed_of_the_Netflix_Content.ipynb)
+
+    Topic : Detailed analysis of the Netflix Content
+
