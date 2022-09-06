@@ -85,3 +85,34 @@ This repository is based on the medium article series of Naina Chaturvedi. Being
 
     Topic : Detailed analysis of the Netflix Content
 
+- [Day 22 - All the important ML algorithms](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_22_All_the_Important_ML_algorithms.ipynb)
+
+    Topic : Quick overview of ML algorithms
+
+- [Day 24 - Machine Learning Classification Project2 Part1](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_24_Machine_Learning_Classification_Project2_Part1.ipynb)
+
+    Topic : ML Classification on Customer Review and Analysis in details
+
+- [Day 25 - Machine Learning Classification Project2 Part2](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_25_Machine_Learning_Classification_Project2_Part2.ipynb)
+
+    Topic : ML Classification on Customer Review and Analysis in details
+
+- [Day 26 - Machine Learning Clustering Project1 Part1](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_26_Machine_Learning_Clustering_Project1_Part1.ipynb)
+
+    Topic : Machine Learning Clustering with Customer Segmentation
+
+- [Day 27 - Machine Learning Clustering Project1 Part2](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_27_Machine_Learning_Clustering_Project1_Part2.ipynb)
+
+    Topic : Machine Learning Clustering with Customer Segmentation
+
+- [Day 28 - Machine Learning Clustering Project2 Part1](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_28_Machine_Learning_Clustering_Project2_Part1.ipynb)
+
+    Topic : Machine Learning Clustering with Suctomer Personality Analysis
+
+- [Day 29 - Machine Learning Clustering Project2 Part2](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_29_Machine_Learning_Clustering_Project2_Part2.ipynb)
+
+    Topic : Machine Learning Clustering with Suctomer Personality Analysis
+
+- [Day 30 - Machine Learning Clustering Project2 Part3](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_30_Machine_Learning_Clustering_Project2_Part3.ipynb)
+
+    Topic : Machine Learning Clustering with Suctomer Personality Analysis
