@@ -116,3 +116,39 @@ This repository is based on the medium article series of Naina Chaturvedi. Being
 - [Day 30 - Machine Learning Clustering Project2 Part3](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_30_Machine_Learning_Clustering_Project2_Part3.ipynb)
 
     Topic : Machine Learning Clustering with Suctomer Personality Analysis
+
+- [Day 31 - Machine Learning Linear Regression](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_31_Machine_Learning_Linear_Regression.ipynb)
+
+    Topic : Univariate linear regression
+
+- [Day 32 - Multiple Linear Regression](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_32_Multiple_Linear_Regression_.ipynb)
+
+    Topic : Multiple linear regression
+
+- [Day 33 - Logistic Regression Project1](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_33_Logistic_Regression_Project1.ipynb)
+
+    Topic : Logistic Regression
+
+- [Day 35 - Principle Component Analysis](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_35_Principal_Component_Analysis.ipynb)
+
+    Topic : Principle Component Analysis
+
+- [Day 36 - Advanced Regression Techniques Part1](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_36_Advanced_Regression_Techniques_Part1.ipynb)
+
+    Topic : Advanced Regression Techniques
+
+- [Day 37 - Advanced Regression Techniques Part2](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_37_Advanced_Regression_Techniques_Part2.ipynb)
+
+    Topic : Advanced Regression Techniques
+
+- [Day 38 - Support Vector Machine](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_38_Support_Vector_Machine.ipynb)
+
+    Topic : SVM (Support Vector Machine)
+
+- [Day 39 - Scikit-learn](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_39_Scikit_learn.ipynb)
+
+    Topic : Basics of Scikit learn
+
+- [Day 40 - Tensorflow](https://github.com/thunderstroke325/60-Days-of-Data-Science-and-ML/blob/main/Day_40_Tensorflow.ipynb)
+
+    Topic : Basics of Tensorflow
